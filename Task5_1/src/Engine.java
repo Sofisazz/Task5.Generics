@@ -1,4 +1,4 @@
-public class Engine{
+public abstract class Engine{
 
     protected String model;
     protected double power;
@@ -14,5 +14,6 @@ public class Engine{
 
     public void getEngineInformation() {}
 }
+
 
 
